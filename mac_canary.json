@@ -1,16 +1,16 @@
 {
-    "version": "105.0.5187.0",
-    "size": 202436600,
-    "sha1": "7dd83770acb9676a36191aaa593d0f671fafb0fe",
-    "sha256": "98fea6e6dd55124ca03c0945b58111c6459e6afdf2423153e50c4802f71278ac",
+    "version": "105.0.5189.0",
+    "size": 206603573,
+    "sha1": "d39e4144040468a58c2fe4e6287bfc9676dfb286",
+    "sha256": "3b4c83403e77c5d90f7e2b6582995a27ed65c13f550d9559e2be228277480354",
     "urls": [
-        "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acbnip5tk3b2h3lfiw5p43fqxvwq_105.0.5187.0/GoogleChromeCanary-105.0.5187.0.dmg",
-        "http://redirector.gvt1.com/edgedl/release2/chrome/acbnip5tk3b2h3lfiw5p43fqxvwq_105.0.5187.0/GoogleChromeCanary-105.0.5187.0.dmg",
-        "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acbnip5tk3b2h3lfiw5p43fqxvwq_105.0.5187.0/GoogleChromeCanary-105.0.5187.0.dmg",
-        "https://redirector.gvt1.com/edgedl/release2/chrome/acbnip5tk3b2h3lfiw5p43fqxvwq_105.0.5187.0/GoogleChromeCanary-105.0.5187.0.dmg",
-        "http://dl.google.com/release2/chrome/acbnip5tk3b2h3lfiw5p43fqxvwq_105.0.5187.0/GoogleChromeCanary-105.0.5187.0.dmg",
-        "https://dl.google.com/release2/chrome/acbnip5tk3b2h3lfiw5p43fqxvwq_105.0.5187.0/GoogleChromeCanary-105.0.5187.0.dmg",
-        "http://www.google.com/dl/release2/chrome/acbnip5tk3b2h3lfiw5p43fqxvwq_105.0.5187.0/GoogleChromeCanary-105.0.5187.0.dmg",
-        "https://www.google.com/dl/release2/chrome/acbnip5tk3b2h3lfiw5p43fqxvwq_105.0.5187.0/GoogleChromeCanary-105.0.5187.0.dmg"
+        "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acge66creghflmmayxzy4ts64aqq_105.0.5189.0/GoogleChromeCanary-105.0.5189.0.dmg",
+        "http://redirector.gvt1.com/edgedl/release2/chrome/acge66creghflmmayxzy4ts64aqq_105.0.5189.0/GoogleChromeCanary-105.0.5189.0.dmg",
+        "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acge66creghflmmayxzy4ts64aqq_105.0.5189.0/GoogleChromeCanary-105.0.5189.0.dmg",
+        "https://redirector.gvt1.com/edgedl/release2/chrome/acge66creghflmmayxzy4ts64aqq_105.0.5189.0/GoogleChromeCanary-105.0.5189.0.dmg",
+        "http://dl.google.com/release2/chrome/acge66creghflmmayxzy4ts64aqq_105.0.5189.0/GoogleChromeCanary-105.0.5189.0.dmg",
+        "https://dl.google.com/release2/chrome/acge66creghflmmayxzy4ts64aqq_105.0.5189.0/GoogleChromeCanary-105.0.5189.0.dmg",
+        "http://www.google.com/dl/release2/chrome/acge66creghflmmayxzy4ts64aqq_105.0.5189.0/GoogleChromeCanary-105.0.5189.0.dmg",
+        "https://www.google.com/dl/release2/chrome/acge66creghflmmayxzy4ts64aqq_105.0.5189.0/GoogleChromeCanary-105.0.5189.0.dmg"
     ]
 }
