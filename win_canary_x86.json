@@ -1,16 +1,16 @@
 {
-    "version": "106.0.5201.1",
-    "size": 94444632,
-    "sha1": "fa0c4fcaf6beef2125565f01a6592c93e638f0cd",
-    "sha256": "7715c2a21f83464f314f7b8f990f69a0c234bfc09f8ef3e6359b3e6c88c8abb6",
+    "version": "106.0.5203.1",
+    "size": 94520920,
+    "sha1": "aeea613156262d1e50f127975ce049f9b9b21313",
+    "sha256": "b7d9777c471eeb5844d99c37cfb88b4ecca38e628dea6629802a3e2c2a350d06",
     "urls": [
-        "http://edgedl.me.gvt1.com/edgedl/release2/chrome/konrhpfpjrds4b5cbye7msgt7i_106.0.5201.1/106.0.5201.1_chrome_installer.exe",
-        "http://redirector.gvt1.com/edgedl/release2/chrome/konrhpfpjrds4b5cbye7msgt7i_106.0.5201.1/106.0.5201.1_chrome_installer.exe",
-        "https://edgedl.me.gvt1.com/edgedl/release2/chrome/konrhpfpjrds4b5cbye7msgt7i_106.0.5201.1/106.0.5201.1_chrome_installer.exe",
-        "https://redirector.gvt1.com/edgedl/release2/chrome/konrhpfpjrds4b5cbye7msgt7i_106.0.5201.1/106.0.5201.1_chrome_installer.exe",
-        "http://dl.google.com/release2/chrome/konrhpfpjrds4b5cbye7msgt7i_106.0.5201.1/106.0.5201.1_chrome_installer.exe",
-        "https://dl.google.com/release2/chrome/konrhpfpjrds4b5cbye7msgt7i_106.0.5201.1/106.0.5201.1_chrome_installer.exe",
-        "http://www.google.com/dl/release2/chrome/konrhpfpjrds4b5cbye7msgt7i_106.0.5201.1/106.0.5201.1_chrome_installer.exe",
-        "https://www.google.com/dl/release2/chrome/konrhpfpjrds4b5cbye7msgt7i_106.0.5201.1/106.0.5201.1_chrome_installer.exe"
+        "http://edgedl.me.gvt1.com/edgedl/release2/chrome/adb4aoiswbzwzous2wwceup4lfka_106.0.5203.1/106.0.5203.1_chrome_installer.exe",
+        "http://redirector.gvt1.com/edgedl/release2/chrome/adb4aoiswbzwzous2wwceup4lfka_106.0.5203.1/106.0.5203.1_chrome_installer.exe",
+        "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adb4aoiswbzwzous2wwceup4lfka_106.0.5203.1/106.0.5203.1_chrome_installer.exe",
+        "https://redirector.gvt1.com/edgedl/release2/chrome/adb4aoiswbzwzous2wwceup4lfka_106.0.5203.1/106.0.5203.1_chrome_installer.exe",
+        "http://dl.google.com/release2/chrome/adb4aoiswbzwzous2wwceup4lfka_106.0.5203.1/106.0.5203.1_chrome_installer.exe",
+        "https://dl.google.com/release2/chrome/adb4aoiswbzwzous2wwceup4lfka_106.0.5203.1/106.0.5203.1_chrome_installer.exe",
+        "http://www.google.com/dl/release2/chrome/adb4aoiswbzwzous2wwceup4lfka_106.0.5203.1/106.0.5203.1_chrome_installer.exe",
+        "https://www.google.com/dl/release2/chrome/adb4aoiswbzwzous2wwceup4lfka_106.0.5203.1/106.0.5203.1_chrome_installer.exe"
     ]
 }
